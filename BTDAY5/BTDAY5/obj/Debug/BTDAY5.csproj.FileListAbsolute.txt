@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\BTDAY5\BTDAY5\bin\Debug\BTDAY5.exe.config
+C:\Users\ACER\source\repos\BTDAY5\BTDAY5\bin\Debug\BTDAY5.exe
+C:\Users\ACER\source\repos\BTDAY5\BTDAY5\bin\Debug\BTDAY5.pdb
+C:\Users\ACER\source\repos\BTDAY5\BTDAY5\obj\Debug\BTDAY5.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\BTDAY5\BTDAY5\obj\Debug\BTDAY5.Properties.Resources.resources
+C:\Users\ACER\source\repos\BTDAY5\BTDAY5\obj\Debug\BTDAY5.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\BTDAY5\BTDAY5\obj\Debug\BTDAY5.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BTDAY5\BTDAY5\obj\Debug\BTDAY5.exe
+C:\Users\ACER\source\repos\BTDAY5\BTDAY5\obj\Debug\BTDAY5.pdb
+C:\Users\ACER\source\repos\BTDAY5\BTDAY5\obj\Debug\BTDAY5.exe.config
+C:\Users\ACER\source\repos\BTDAY5\BTDAY5\obj\Debug\BTDAY5.frmMain.resources
