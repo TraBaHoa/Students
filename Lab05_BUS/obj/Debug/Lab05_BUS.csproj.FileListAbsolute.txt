@@ -1,0 +1,30 @@
+M:\truong\Lab05_BUS\bin\Debug\Lab05_BUS.dll.config
+M:\truong\Lab05_BUS\bin\Debug\Lab05_BUS.dll
+M:\truong\Lab05_BUS\bin\Debug\Lab05_BUS.pdb
+M:\truong\Lab05_BUS\bin\Debug\EntityFramework.dll
+M:\truong\Lab05_BUS\bin\Debug\EntityFramework.SqlServer.dll
+M:\truong\Lab05_BUS\bin\Debug\Lab05_DAL.dll
+M:\truong\Lab05_BUS\bin\Debug\Lab05_DAL.pdb
+M:\truong\Lab05_BUS\bin\Debug\Lab05_DAL.dll.config
+M:\truong\Lab05_BUS\bin\Debug\EntityFramework.xml
+M:\truong\Lab05_BUS\bin\Debug\EntityFramework.SqlServer.xml
+M:\truong\Lab05_BUS\obj\Debug\Lab05_BUS.csproj.AssemblyReference.cache
+M:\truong\Lab05_BUS\obj\Debug\Lab05_BUS.csproj.CoreCompileInputs.cache
+M:\truong\Lab05_BUS\obj\Debug\Lab05_BUS.csproj.CopyComplete
+M:\truong\Lab05_BUS\obj\Debug\Lab05_BUS.dll
+M:\truong\Lab05_BUS\obj\Debug\Lab05_BUS.pdb
+D:\truong (1)\Lab05_BUS\obj\Debug\Lab05_BUS.csproj.AssemblyReference.cache
+D:\truong (1)\Lab05_BUS\obj\Debug\Lab05_BUS.csproj.CoreCompileInputs.cache
+D:\truong (1)\Lab05_BUS\obj\Debug\Lab05_BUS.dll
+D:\truong (1)\Lab05_BUS\obj\Debug\Lab05_BUS.pdb
+D:\truong (1)\Lab05_BUS\bin\Debug\Lab05_BUS.dll.config
+D:\truong (1)\Lab05_BUS\bin\Debug\Lab05_BUS.dll
+D:\truong (1)\Lab05_BUS\bin\Debug\Lab05_BUS.pdb
+D:\truong (1)\Lab05_BUS\bin\Debug\EntityFramework.dll
+D:\truong (1)\Lab05_BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\truong (1)\Lab05_BUS\bin\Debug\Lab05_DAL.dll
+D:\truong (1)\Lab05_BUS\bin\Debug\Lab05_DAL.pdb
+D:\truong (1)\Lab05_BUS\bin\Debug\Lab05_DAL.dll.config
+D:\truong (1)\Lab05_BUS\bin\Debug\EntityFramework.xml
+D:\truong (1)\Lab05_BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\truong (1)\Lab05_BUS\obj\Debug\Lab05_BUS.csproj.Up2Date
